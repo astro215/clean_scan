@@ -1,0 +1,103 @@
+name: project_nhk
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_fonts: ^4.0.3
+  flutter_native_splash: ^2.2.18
+  liquid_swipe: ^3.0.0
+  smooth_page_indicator: ^1.0.1
+  get: ^4.6.5
+  flutter_otp_text_field: ^1.1.1
+  firebase_core: ^2.8.0
+  firebase_auth: ^4.3.0
+  firebase_crashlytics: ^3.0.17
+  google_sign_in: ^6.0.2
+  cloud_firestore: ^4.4.5
+  image_picker: ^0.8.7+1
+  firebase_storage: ^11.0.16
+  line_awesome_flutter: ^2.0.0
+  geolocator: ^9.0.2
+  path_provider: ^2.0.14
+  flutter_launcher_icons: ^0.12.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/splash_images/
+    - assets/images/welcome_images/
+    - assets/images/on_boarding_images/
+    - assets/logo/
+    - assets/dashboard/
+    - assets/images/profile/
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter_icons:
+  android : true
+  ios : true
+  image_path: "assets/logo.png"
+
+
+# flutter_native_splash-development.yaml
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/splash_images/icon_light.jpg
+  color_dark: "#000000"
+  image_dark: assets/images/splash_images/icon_black.png
+
+
+  android_12:
+    image: assets/images/splash_images/icon_light.jpg
+    icon_background_color: "#ffffff"
+    image_dark: assets/images/splash_images/icon_black.png
+    icon_background_color_dark: "#000000"
+
+  web: false
+
+
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
