@@ -1,8 +1,7 @@
-# Clean_scan
+# Clean_scan (Google Solution Challenge 2023)
 
-<div style="text-align:center">
-    ![Clean Scan logo](image URL)
-</div>
+![Soultion challenge logo](https://github.com/astro215/clean_scan/blob/main/image_sources/solutionchallenge-2023-Website-EventBanners_Full.png)
+
 
 ### Clean scan is an application which lets its users take the photo of garbage or an area containing garbage. It scans the area, detects the garbage and then calculates the amount of garbage in the photo using Monocular Depth Sensing and notifies the garbage authorities about it and the size of the vehicle required to put away the garbage from that location.
 
@@ -18,6 +17,7 @@
 ## 🖥 Presentation and conceptulization
 
 link to ppt
+<img src="https://github.com/astro215/clean_scan/blob/main/image_sources/CS_WF.png" alt="Work flow" width="1000" height="600">
 
 <br><br>
 ---
@@ -33,7 +33,8 @@ link to ppt
 --- 
 ## 🟢 Android APK
 
-link to image of apk and the repository of the apk
+link to image of apk and the repository of the apk <br>
+<img src="https://github.com/astro215/clean_scan/blob/main/image_sources/CS_M1.png" alt="Mobile view" width="600" height="400">
 
 (Only works on Android 13 or above)
 
@@ -43,25 +44,19 @@ link to image of apk and the repository of the apk
 
 #### ➡ Dowload and Install the apk from the apk folder.
 #### ➡ Open the application and Register with your details.
-<div style="text-align:center">
-    ![Registering](image URL)
-</div>
+
+<img src="https://github.com/astro215/clean_scan/blob/main/image_sources/CS_M2.png" alt="Registering" width="600" height="400">
 
 #### ➡ You can write a description on the complain and Click a Picture of the Problem.
 
-<div style="text-align:center">
-    ![Image reporting](image URL)
-</div>
+<img src="https://github.com/astro215/clean_scan/blob/main/image_sources/CS_M3.png" alt="Image reporting" width="600" height="400">
 
 #### ➡ Your compain will be registered successfully.
 
-<div style="text-align:center">
-    ![Success Message](image URL)
-</div>
+<img src="https://github.com/astro215/clean_scan/blob/main/image_sources/CS_M4.png" alt="Success Message" width="600" height="400">
 
+<br><br><br>
 
 ## 🤝About the Team
 
-<div style="text-align:center">
-    ![Team Info pic](image URL)
-</div>
+![Team Info pic](https://github.com/astro215/clean_scan/blob/main/image_sources/CN_TQ.png)
