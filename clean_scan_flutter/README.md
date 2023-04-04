@@ -1,16 +1,10 @@
-# project_nhk
+# Clean Scan
 
-A new Flutter project.
+Flutter part of the project.
 
-## Getting Started
+![Flutter](https://assets-global.website-files.com/6046919f8276b876330735e2/6368fa5c46a4dc0a4cd05666_Top%20resources%20to%20level%20up%20your%20Flutter%20development%20skills.png)
 
-This project is a starting point for a Flutter application.
+## Here are all flutter code that can be downloaded and used on android studio to run the app.
 
-A few resources to get you started if this is your first Flutter project:
+#### Basic Running of the codes. Standard Procedure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
