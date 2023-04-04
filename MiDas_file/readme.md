@@ -7,4 +7,14 @@
 
 ### -> The MiDaS algorithm is available as an open-source implementation on GitHub, along with pre-trained models for a variety of applications.
 
-![Midas Img]()
+---
+
+## Before MiDaS
+![Midas Img](https://github.com/astro215/clean_scan/blob/main/image_sources/annotated_image.jpg)
+
+
+## After MiDaS
+![Midas Img](https://github.com/astro215/clean_scan/blob/main/image_sources/image.png)
+
+
+### The darker colour represents the further areas and the lighter shades suggest that the object is closer to the camera.
