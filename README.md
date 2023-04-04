@@ -16,7 +16,9 @@
 
 ## 🖥 Presentation and conceptulization
 
-link to ppt
+### PPT Link:
+--> https://github.com/astro215/clean_scan/blob/main/Presentation/Clean_scan_ppt.pdf
+
 <img src="https://github.com/astro215/clean_scan/blob/main/image_sources/CS_WF.png" alt="Work flow" width="1000" height="600">
 
 <br><br>
