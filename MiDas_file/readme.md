@@ -1,4 +1,11 @@
 # MiDaS
+
+
+![google Img](https://github.com/astro215/clean_scan/blob/main/image_sources/touchicon-180_low.png)
+## Google colab notebook link: https://colab.research.google.com/drive/1JQyFivMwX2OCBZiRwRzu6QqrYSTOp9BB?usp=sharing
+
+<br><br><br>
+
 ### -> MiDaS (Mixed Depth and Stereo Estimation) is an algorithm for generating depth maps from 2D images. It was introduced by researchers at Facebook AI Research in 2020.
 
 ### -> The MiDaS algorithm works by training a neural network on a large dataset of image-depth pairs. During training, the network learns to predict depth values for each pixel in an input image based on the features of the image itself and contextual information from neighboring pixels.
